@@ -1,0 +1,11 @@
+Steps to run:
+
+1.We have to unzip the folder,then we have save both excel and python file in same folder
+
+2.We have to install tinker pandas openpyxl modules to run...
+
+3.A new window will open it asks inputs like name ,address, employer,I'd, hours worked,hourly rat, over time.
+ 
+4.Then click weekly salary button then its display salary report of employ and then click export it save data in Excel file
+
+Note: while exporting excel should not open in background.
